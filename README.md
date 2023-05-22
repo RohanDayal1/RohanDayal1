@@ -12,4 +12,4 @@ HTML, CSS, PHP, MYSQL and Javascript
 
 👩‍💻 I'm working on Multiple Projects
 
-🧠 I'm currently learning PHP and Python
+🧠 I'm currently learning PHP, Wordpress and Javascript
